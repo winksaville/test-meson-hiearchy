@@ -1,4 +1,5 @@
-# test hiearchy of code
+# Test hiearchy of apps and libraries
+=====================================
 
 Tests multiple applications dependent on one or more libraries
 using [Meson](https://github.com/mesonbuild/meson) as the build system
